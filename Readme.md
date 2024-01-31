@@ -19,12 +19,18 @@ Usage:
 git clone https://github.com/op2adi/Project_to_make_groups.git
 ```
 ```
-cd group-assignment-project
+cd Project_to_make_groups
 ```
-
+```
+pip install -r requirements.txt
+```
+```
+python how.py
+```
 Then enjoy 
 
-Note: - There must be a column Roll no. associated to correctly work 
+* Note: - There must be a column Roll no. associated to correctly work 
 * If your project contains output.xlsx file in this directory then evertime you will run this code it will be updated
 
 * Feel Free to edit based on your requirements
+* Also please give feedback on $aditya22040@iiitd.ac.in$
