@@ -15,7 +15,10 @@ pip install pandas numpy
 ```
 
 Usage:
-```git clone https://github.com/op2adi/Project_to_make_groups.git
+```
+git clone https://github.com/op2adi/Project_to_make_groups.git
+```
+```
 cd group-assignment-project
 ```
 
